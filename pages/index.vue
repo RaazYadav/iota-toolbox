@@ -17,7 +17,8 @@
         You can find the code for this project on GitHub at
         <a href="https://github.com/netlify-templates/nuxt-toolbox"
           >https://github.com/netlify-templates/nuxt-toolbox</a
-        >! Happy coding!
+        >!Raaz ! Happy coding! 
+
       </p>
     </div>
     <FeedbackForm />
